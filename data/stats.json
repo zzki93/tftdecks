@@ -1,0 +1,1270 @@
+{
+ "updated": "2026-10-05T15:14+00:00",
+ "patch": "unknown",
+ "scope": "한국 서버, 마스터 이상 플레이어가 참가한 랭크 경기의 참가자 8명 전체",
+ "matches": 2827,
+ "participants": 22616,
+ "decks": {},
+ "clusters": [
+  {
+   "carry": "DA_18_Aphelios",
+   "carry_name": "아펠리오스",
+   "traits": [
+    "DA_18_Caustic",
+    "DA_18_Adaptor"
+   ],
+   "trait_names": [
+    "부식",
+    "적응가"
+   ],
+   "carry_items": [
+    "구인수의 격노검",
+    "크라켄의 분노",
+    "무한의 대검"
+   ],
+   "games": 416,
+   "top4": 0.4159,
+   "pick": 0.0184,
+   "avg_place": 4.9
+  },
+  {
+   "carry": "DA_Nidalee18_AP",
+   "carry_name": "니달리",
+   "traits": [
+    "DA_18_Caustic",
+    "DA_18_Adaptor"
+   ],
+   "trait_names": [
+    "부식",
+    "적응가"
+   ],
+   "carry_items": [
+    "무한의 대검",
+    "스테락의 도전",
+    "쇼진의 창"
+   ],
+   "games": 372,
+   "top4": 0.4086,
+   "pick": 0.0164,
+   "avg_place": 5.05
+  },
+  {
+   "carry": "DA_18_Veigar",
+   "carry_name": "베이가",
+   "traits": [
+    "DA_18_Spellweaver",
+    "DA_18_Elderwood"
+   ],
+   "trait_names": [
+    "주문술사",
+    "나무정령"
+   ],
+   "carry_items": [
+    "보석 건틀릿",
+    "푸른 파수꾼",
+    "마법공학 총검"
+   ],
+   "games": 349,
+   "top4": 0.3868,
+   "pick": 0.0154,
+   "avg_place": 5.03
+  },
+  {
+   "carry": "DA_18_KhaZix",
+   "carry_name": "카직스",
+   "traits": [
+    "DA_FloraFatalis18",
+    "DA_18_Rival"
+   ],
+   "trait_names": [
+    "치명적인 꽃",
+    "경쟁자"
+   ],
+   "carry_items": [
+    "정의의 손길",
+    "라바돈의 죽음모자",
+    "밤의 끝자락"
+   ],
+   "games": 287,
+   "top4": 0.6585,
+   "pick": 0.0127,
+   "avg_place": 3.85
+  },
+  {
+   "carry": "DA_18_Zyra",
+   "carry_name": "자이라",
+   "traits": [
+    "DA_Juggernaut18",
+    "DA_18_Greenfather"
+   ],
+   "trait_names": [
+    "전쟁기계",
+    "자연의 아버지"
+   ],
+   "carry_items": [
+    "대천사의 지팡이",
+    "마법공학 총검",
+    "쇼진의 창"
+   ],
+   "games": 280,
+   "top4": 0.6964,
+   "pick": 0.0124,
+   "avg_place": 3.49
+  },
+  {
+   "carry": "DA_18_Azir",
+   "carry_name": "아지르",
+   "traits": [
+    "DA_FloraFatalis18",
+    "DA_18_ZyraUniqueTrait"
+   ],
+   "trait_names": [
+    "치명적인 꽃",
+    "가시의 여인"
+   ],
+   "carry_items": [
+    "마법공학 총검",
+    "구인수의 격노검",
+    "라바돈의 죽음모자"
+   ],
+   "games": 257,
+   "top4": 0.4786,
+   "pick": 0.0114,
+   "avg_place": 4.67
+  },
+  {
+   "carry": "DA_18_Zyra",
+   "carry_name": "자이라",
+   "traits": [
+    "DA_Juggernaut18",
+    "DA_18_Maokai_UniqueTrait"
+   ],
+   "trait_names": [
+    "전쟁기계",
+    "고목"
+   ],
+   "carry_items": [
+    "대천사의 지팡이",
+    "마법공학 총검",
+    "공허의 지팡이"
+   ],
+   "games": 234,
+   "top4": 0.5299,
+   "pick": 0.0103,
+   "avg_place": 4.24
+  },
+  {
+   "carry": "DA_Sentinel18",
+   "carry_name": "파수꾼",
+   "traits": [
+    "DA_18_Caustic",
+    "DA_18_Adaptor"
+   ],
+   "trait_names": [
+    "부식",
+    "적응가"
+   ],
+   "carry_items": [
+    "수호자의 맹세",
+    "가고일 돌갑옷",
+    "워모그의 갑옷"
+   ],
+   "games": 234,
+   "top4": 0.3932,
+   "pick": 0.0103,
+   "avg_place": 5.08
+  },
+  {
+   "carry": "DA_Vi18",
+   "carry_name": "바이",
+   "traits": [
+    "DA_Juggernaut18",
+    "DA_18_Greenfather"
+   ],
+   "trait_names": [
+    "전쟁기계",
+    "자연의 아버지"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "도적의 장갑"
+   ],
+   "games": 217,
+   "top4": 0.553,
+   "pick": 0.0096,
+   "avg_place": 4.15
+  },
+  {
+   "carry": "DA_Amumu18",
+   "carry_name": "아무무",
+   "traits": [
+    "DA_18_Caustic",
+    "DA_18_Adaptor"
+   ],
+   "trait_names": [
+    "부식",
+    "적응가"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "정령의 형상"
+   ],
+   "games": 209,
+   "top4": 0.3349,
+   "pick": 0.0092,
+   "avg_place": 5.22
+  },
+  {
+   "carry": "DA_18_ElderDragon",
+   "carry_name": "장로 드래곤",
+   "traits": [
+    "DA_18_Greenfather",
+    "DA_18_Maokai_UniqueTrait"
+   ],
+   "trait_names": [
+    "자연의 아버지",
+    "고목"
+   ],
+   "carry_items": [
+    "무한의 대검",
+    "최후의 속삭임",
+    "스테락의 도전"
+   ],
+   "games": 199,
+   "top4": 0.5729,
+   "pick": 0.0088,
+   "avg_place": 3.95
+  },
+  {
+   "carry": "DA_18_Malphite",
+   "carry_name": "말파이트",
+   "traits": [
+    "DA_18_Summoner",
+    "DA_FloraFatalis18"
+   ],
+   "trait_names": [
+    "소환사",
+    "치명적인 꽃"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "크라운가드"
+   ],
+   "games": 197,
+   "top4": 0.3503,
+   "pick": 0.0087,
+   "avg_place": 5.3
+  },
+  {
+   "carry": "DA_Draven18",
+   "carry_name": "드레이븐",
+   "traits": [
+    "DA_18_Greenfather",
+    "DA_18_Maokai_UniqueTrait"
+   ],
+   "trait_names": [
+    "자연의 아버지",
+    "고목"
+   ],
+   "carry_items": [
+    "구인수의 격노검",
+    "크라켄의 분노",
+    "무한의 대검"
+   ],
+   "games": 196,
+   "top4": 0.6224,
+   "pick": 0.0087,
+   "avg_place": 3.58
+  },
+  {
+   "carry": "DA_Vi18",
+   "carry_name": "바이",
+   "traits": [
+    "DA_Juggernaut18",
+    "DA_18_Maokai_UniqueTrait"
+   ],
+   "trait_names": [
+    "전쟁기계",
+    "고목"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "도적의 장갑"
+   ],
+   "games": 188,
+   "top4": 0.4149,
+   "pick": 0.0083,
+   "avg_place": 4.88
+  },
+  {
+   "carry": "DA_18_Maokai",
+   "carry_name": "마오카이",
+   "traits": [
+    "DA_18_Greenfather",
+    "DA_18_Maokai_UniqueTrait"
+   ],
+   "trait_names": [
+    "자연의 아버지",
+    "고목"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "정령의 형상"
+   ],
+   "games": 179,
+   "top4": 0.5587,
+   "pick": 0.0079,
+   "avg_place": 4.04
+  },
+  {
+   "carry": "DA_18_Soraka",
+   "carry_name": "소라카",
+   "traits": [
+    "DA_18_Summoner",
+    "DA_FloraFatalis18"
+   ],
+   "trait_names": [
+    "소환사",
+    "치명적인 꽃"
+   ],
+   "carry_items": [
+    "대천사의 지팡이",
+    "쇼진의 창",
+    "라바돈의 죽음모자"
+   ],
+   "games": 174,
+   "top4": 0.3736,
+   "pick": 0.0077,
+   "avg_place": 5.36
+  },
+  {
+   "carry": "DA_18_Azir",
+   "carry_name": "아지르",
+   "traits": [
+    "DA_18_Summoner",
+    "DA_FloraFatalis18"
+   ],
+   "trait_names": [
+    "소환사",
+    "치명적인 꽃"
+   ],
+   "carry_items": [
+    "구인수의 격노검",
+    "마법공학 총검",
+    "라바돈의 죽음모자"
+   ],
+   "games": 167,
+   "top4": 0.5329,
+   "pick": 0.0074,
+   "avg_place": 4.51
+  },
+  {
+   "carry": "DA_Amumu18",
+   "carry_name": "아무무",
+   "traits": [
+    "DA_Juggernaut18",
+    "DA_18_Greenfather"
+   ],
+   "trait_names": [
+    "전쟁기계",
+    "자연의 아버지"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "정령의 형상"
+   ],
+   "games": 160,
+   "top4": 0.5938,
+   "pick": 0.0071,
+   "avg_place": 3.93
+  },
+  {
+   "carry": "DA_18_KhaZix",
+   "carry_name": "카직스",
+   "traits": [
+    "DA_18_Executioner",
+    "DA_FloraFatalis18"
+   ],
+   "trait_names": [
+    "처형자",
+    "치명적인 꽃"
+   ],
+   "carry_items": [
+    "정의의 손길",
+    "라바돈의 죽음모자",
+    "밤의 끝자락"
+   ],
+   "games": 149,
+   "top4": 0.7517,
+   "pick": 0.0066,
+   "avg_place": 3.09
+  },
+  {
+   "carry": "DA_Amumu18",
+   "carry_name": "아무무",
+   "traits": [
+    "DA_Juggernaut18",
+    "DA_18_Maokai_UniqueTrait"
+   ],
+   "trait_names": [
+    "전쟁기계",
+    "고목"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "정령의 형상"
+   ],
+   "games": 148,
+   "top4": 0.4662,
+   "pick": 0.0065,
+   "avg_place": 4.68
+  },
+  {
+   "carry": "DA_Vi18",
+   "carry_name": "바이",
+   "traits": [
+    "DA_18_Caustic",
+    "DA_18_Adaptor"
+   ],
+   "trait_names": [
+    "부식",
+    "적응가"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "도적의 장갑"
+   ],
+   "games": 145,
+   "top4": 0.3655,
+   "pick": 0.0064,
+   "avg_place": 5.19
+  },
+  {
+   "carry": "DA_18_Rammus",
+   "carry_name": "람머스",
+   "traits": [
+    "DA_FloraFatalis18",
+    "DA_18_ZyraUniqueTrait"
+   ],
+   "trait_names": [
+    "치명적인 꽃",
+    "가시의 여인"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "크라운가드"
+   ],
+   "games": 128,
+   "top4": 0.4453,
+   "pick": 0.0057,
+   "avg_place": 4.77
+  },
+  {
+   "carry": "DA_18_Azir",
+   "carry_name": "아지르",
+   "traits": [
+    "DA_18_Executioner",
+    "DA_18_Summoner"
+   ],
+   "trait_names": [
+    "처형자",
+    "소환사"
+   ],
+   "carry_items": [
+    "구인수의 격노검",
+    "마법공학 총검",
+    "라바돈의 죽음모자"
+   ],
+   "games": 124,
+   "top4": 0.7097,
+   "pick": 0.0055,
+   "avg_place": 3.63
+  },
+  {
+   "carry": "DA_Amumu18",
+   "carry_name": "아무무",
+   "traits": [
+    "DA_18_Greenfather",
+    "DA_18_Maokai_UniqueTrait"
+   ],
+   "trait_names": [
+    "자연의 아버지",
+    "고목"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "정령의 형상"
+   ],
+   "games": 117,
+   "top4": 0.4701,
+   "pick": 0.0052,
+   "avg_place": 4.44
+  },
+  {
+   "carry": "DA_18_Zyra",
+   "carry_name": "자이라",
+   "traits": [
+    "DA_18_Summoner",
+    "DA_FloraFatalis18"
+   ],
+   "trait_names": [
+    "소환사",
+    "치명적인 꽃"
+   ],
+   "carry_items": [
+    "공허의 지팡이",
+    "쇼진의 창",
+    "붉은 덩굴정령"
+   ],
+   "games": 116,
+   "top4": 0.431,
+   "pick": 0.0051,
+   "avg_place": 5.14
+  },
+  {
+   "carry": "DA_Vi18",
+   "carry_name": "바이",
+   "traits": [
+    "DA_Juggernaut18",
+    "DA_18_ZyraUniqueTrait"
+   ],
+   "trait_names": [
+    "전쟁기계",
+    "가시의 여인"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "정령의 형상"
+   ],
+   "games": 105,
+   "top4": 0.2286,
+   "pick": 0.0046,
+   "avg_place": 5.7
+  },
+  {
+   "carry": "DA_18_Ornn",
+   "carry_name": "오른",
+   "traits": [
+    "DA_18_Spellweaver",
+    "DA_18_Elderwood"
+   ],
+   "trait_names": [
+    "주문술사",
+    "나무정령"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "정령의 형상"
+   ],
+   "games": 99,
+   "top4": 0.3434,
+   "pick": 0.0044,
+   "avg_place": 5.23
+  },
+  {
+   "carry": "DA_18_Ahri",
+   "carry_name": "아리",
+   "traits": [
+    "DA_Emerald18",
+    "DA_18_Invoker"
+   ],
+   "trait_names": [
+    "에메랄드 성위",
+    "기원자"
+   ],
+   "carry_items": [
+    "보석 건틀릿",
+    "쇼진의 창",
+    "타격대의 철퇴"
+   ],
+   "games": 90,
+   "top4": 0.2889,
+   "pick": 0.004,
+   "avg_place": 5.43
+  },
+  {
+   "carry": "DA_18_Zyra",
+   "carry_name": "자이라",
+   "traits": [
+    "DA_18_Executioner",
+    "DA_18_Summoner"
+   ],
+   "trait_names": [
+    "처형자",
+    "소환사"
+   ],
+   "carry_items": [
+    "처형자 상징",
+    "공허의 지팡이",
+    "쇼진의 창"
+   ],
+   "games": 90,
+   "top4": 0.6333,
+   "pick": 0.004,
+   "avg_place": 3.78
+  },
+  {
+   "carry": "DA_18_Soraka",
+   "carry_name": "소라카",
+   "traits": [
+    "DA_18_Executioner",
+    "DA_18_Summoner"
+   ],
+   "trait_names": [
+    "처형자",
+    "소환사"
+   ],
+   "carry_items": [
+    "라바돈의 죽음모자",
+    "쇼진의 창",
+    "대천사의 지팡이"
+   ],
+   "games": 87,
+   "top4": 0.4943,
+   "pick": 0.0038,
+   "avg_place": 4.62
+  },
+  {
+   "carry": "DA_18_Morgana",
+   "carry_name": "모르가나",
+   "traits": [
+    "DA_Emerald18",
+    "DA_18_Invoker"
+   ],
+   "trait_names": [
+    "에메랄드 성위",
+    "기원자"
+   ],
+   "carry_items": [
+    "공허의 지팡이",
+    "모렐로노미콘",
+    "붉은 덩굴정령"
+   ],
+   "games": 86,
+   "top4": 0.4419,
+   "pick": 0.0038,
+   "avg_place": 4.97
+  },
+  {
+   "carry": "DA_18_Morgana",
+   "carry_name": "모르가나",
+   "traits": [
+    "DA_18_Invoker",
+    "DA_18_Blossom"
+   ],
+   "trait_names": [
+    "기원자",
+    "개화"
+   ],
+   "carry_items": [
+    "공허의 지팡이",
+    "모렐로노미콘",
+    "붉은 덩굴정령"
+   ],
+   "games": 86,
+   "top4": 0.2558,
+   "pick": 0.0038,
+   "avg_place": 5.76
+  },
+  {
+   "carry": "DA_Taric18",
+   "carry_name": "타릭",
+   "traits": [
+    "DA_18_Greenfather",
+    "DA_18_Maokai_UniqueTrait"
+   ],
+   "trait_names": [
+    "자연의 아버지",
+    "고목"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "크라운가드"
+   ],
+   "games": 82,
+   "top4": 0.5488,
+   "pick": 0.0036,
+   "avg_place": 4.26
+  },
+  {
+   "carry": "DA_18_Malphite",
+   "carry_name": "말파이트",
+   "traits": [
+    "DA_18_Executioner",
+    "DA_18_Summoner"
+   ],
+   "trait_names": [
+    "처형자",
+    "소환사"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "크라운가드"
+   ],
+   "games": 82,
+   "top4": 0.5488,
+   "pick": 0.0036,
+   "avg_place": 4.32
+  },
+  {
+   "carry": "DA_18_Ashe",
+   "carry_name": "애쉬",
+   "traits": [
+    "DA_18_Greenfather",
+    "DA_18_Maokai_UniqueTrait"
+   ],
+   "trait_names": [
+    "자연의 아버지",
+    "고목"
+   ],
+   "carry_items": [
+    "쇼진의 창",
+    "붉은 덩굴정령",
+    "최후의 속삭임"
+   ],
+   "games": 82,
+   "top4": 0.5732,
+   "pick": 0.0036,
+   "avg_place": 3.99
+  },
+  {
+   "carry": "DA_18_Kennen",
+   "carry_name": "케넨",
+   "traits": [
+    "DA_18_Greenfather",
+    "DA_18_Maokai_UniqueTrait"
+   ],
+   "trait_names": [
+    "자연의 아버지",
+    "고목"
+   ],
+   "carry_items": [
+    "도적의 장갑",
+    "밤의 끝자락",
+    "정의의 손길"
+   ],
+   "games": 82,
+   "top4": 0.6585,
+   "pick": 0.0036,
+   "avg_place": 3.5
+  },
+  {
+   "carry": "DA_18_Yunara",
+   "carry_name": "유나라",
+   "traits": [
+    "DA_18_Solar",
+    "DA_18_Blossom"
+   ],
+   "trait_names": [
+    "햇빛",
+    "개화"
+   ],
+   "carry_items": [
+    "쇼진의 창",
+    "최후의 속삭임",
+    "죽음의 검"
+   ],
+   "games": 80,
+   "top4": 0.4125,
+   "pick": 0.0035,
+   "avg_place": 5.01
+  },
+  {
+   "carry": "DA_18_Veigar",
+   "carry_name": "베이가",
+   "traits": [
+    "DA_AluneUniqueTrait18",
+    "DA_18_Spellweaver"
+   ],
+   "trait_names": [
+    "조율",
+    "주문술사"
+   ],
+   "carry_items": [
+    "보석 건틀릿",
+    "푸른 파수꾼",
+    "루덴의 폭풍"
+   ],
+   "games": 79,
+   "top4": 0.519,
+   "pick": 0.0035,
+   "avg_place": 4.28
+  },
+  {
+   "carry": "DA_18_Ahri",
+   "carry_name": "아리",
+   "traits": [
+    "DA_18_Invoker",
+    "DA_18_Blossom"
+   ],
+   "trait_names": [
+    "기원자",
+    "개화"
+   ],
+   "carry_items": [
+    "보석 건틀릿",
+    "쇼진의 창",
+    "타격대의 철퇴"
+   ],
+   "games": 79,
+   "top4": 0.2152,
+   "pick": 0.0035,
+   "avg_place": 5.99
+  },
+  {
+   "carry": "DA_Vi18",
+   "carry_name": "바이",
+   "traits": [
+    "DA_Juggernaut18",
+    "DA_18_Summoner"
+   ],
+   "trait_names": [
+    "전쟁기계",
+    "소환사"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "도적의 장갑"
+   ],
+   "games": 78,
+   "top4": 0.3974,
+   "pick": 0.0034,
+   "avg_place": 4.91
+  },
+  {
+   "carry": "DA_18_Zyra",
+   "carry_name": "자이라",
+   "traits": [
+    "DA_Juggernaut18",
+    "DA_18_ZyraUniqueTrait"
+   ],
+   "trait_names": [
+    "전쟁기계",
+    "가시의 여인"
+   ],
+   "carry_items": [
+    "대천사의 지팡이",
+    "마법공학 총검",
+    "공허의 지팡이"
+   ],
+   "games": 74,
+   "top4": 0.2432,
+   "pick": 0.0033,
+   "avg_place": 5.93
+  },
+  {
+   "carry": "DA_18_Caitlyn",
+   "carry_name": "케이틀린",
+   "traits": [
+    "DA_Juggernaut18",
+    "DA_18_Hunter"
+   ],
+   "trait_names": [
+    "전쟁기계",
+    "사냥꾼"
+   ],
+   "carry_items": [
+    "구인수의 격노검",
+    "크라켄의 분노",
+    "마법공학 총검"
+   ],
+   "games": 72,
+   "top4": 0.4583,
+   "pick": 0.0032,
+   "avg_place": 4.93
+  },
+  {
+   "carry": "DA_18_MasterYi_AD",
+   "carry_name": "마스터 이",
+   "traits": [
+    "DA_18_Rival",
+    "DA_18_Caustic"
+   ],
+   "trait_names": [
+    "경쟁자",
+    "부식"
+   ],
+   "carry_items": [
+    "밤의 끝자락",
+    "구인수의 격노검",
+    "수은"
+   ],
+   "games": 72,
+   "top4": 0.5833,
+   "pick": 0.0032,
+   "avg_place": 4.39
+  },
+  {
+   "carry": "DA_18_Veigar",
+   "carry_name": "베이가",
+   "traits": [
+    "DA_FloraFatalis18",
+    "DA_18_Spellweaver"
+   ],
+   "trait_names": [
+    "치명적인 꽃",
+    "주문술사"
+   ],
+   "carry_items": [
+    "보석 건틀릿",
+    "푸른 파수꾼",
+    "치명적인 꽃 상징"
+   ],
+   "games": 70,
+   "top4": 0.6714,
+   "pick": 0.0031,
+   "avg_place": 3.69
+  },
+  {
+   "carry": "DA_18_Veigar",
+   "carry_name": "베이가",
+   "traits": [
+    "DA_18_Elderwood",
+    "DA_18_Spellweaver"
+   ],
+   "trait_names": [
+    "나무정령",
+    "주문술사"
+   ],
+   "carry_items": [
+    "보석 건틀릿",
+    "푸른 파수꾼",
+    "마법공학 총검"
+   ],
+   "games": 68,
+   "top4": 0.0735,
+   "pick": 0.003,
+   "avg_place": 6.96
+  },
+  {
+   "carry": "DA_18_Zyra",
+   "carry_name": "자이라",
+   "traits": [
+    "DA_Juggernaut18",
+    "DA_18_Summoner"
+   ],
+   "trait_names": [
+    "전쟁기계",
+    "소환사"
+   ],
+   "carry_items": [
+    "대천사의 지팡이",
+    "마법공학 총검",
+    "쇼진의 창"
+   ],
+   "games": 66,
+   "top4": 0.6212,
+   "pick": 0.0029,
+   "avg_place": 3.94
+  },
+  {
+   "carry": "DA_Amumu18",
+   "carry_name": "아무무",
+   "traits": [
+    "DA_Juggernaut18",
+    "DA_18_ZyraUniqueTrait"
+   ],
+   "trait_names": [
+    "전쟁기계",
+    "가시의 여인"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "워모그의 갑옷",
+    "정령의 형상"
+   ],
+   "games": 65,
+   "top4": 0.1692,
+   "pick": 0.0029,
+   "avg_place": 5.94
+  },
+  {
+   "carry": "DA_18_Azir",
+   "carry_name": "아지르",
+   "traits": [
+    "DA_18_Executioner",
+    "DA_FloraFatalis18"
+   ],
+   "trait_names": [
+    "처형자",
+    "치명적인 꽃"
+   ],
+   "carry_items": [
+    "마법공학 총검",
+    "구인수의 격노검",
+    "라바돈의 죽음모자"
+   ],
+   "games": 65,
+   "top4": 0.6462,
+   "pick": 0.0029,
+   "avg_place": 3.35
+  },
+  {
+   "carry": "DA_18_Sivir",
+   "carry_name": "시비르",
+   "traits": [
+    "DA_18_Battlemage",
+    "DA_18_Caustic"
+   ],
+   "trait_names": [
+    "거석",
+    "부식"
+   ],
+   "carry_items": [
+    "무한의 대검",
+    "붉은 덩굴정령",
+    "구인수의 격노검"
+   ],
+   "games": 64,
+   "top4": 0.3906,
+   "pick": 0.0028,
+   "avg_place": 4.95
+  },
+  {
+   "carry": "DA_18_Sivir",
+   "carry_name": "시비르",
+   "traits": [
+    "DA_Juggernaut18",
+    "DA_18_Maokai_UniqueTrait"
+   ],
+   "trait_names": [
+    "전쟁기계",
+    "고목"
+   ],
+   "carry_items": [
+    "무한의 대검",
+    "붉은 덩굴정령",
+    "최후의 속삭임"
+   ],
+   "games": 64,
+   "top4": 0.375,
+   "pick": 0.0028,
+   "avg_place": 5.12
+  },
+  {
+   "carry": "DA_Sentinel18",
+   "carry_name": "파수꾼",
+   "traits": [
+    "DA_18_Greenfather",
+    "DA_18_Maokai_UniqueTrait"
+   ],
+   "trait_names": [
+    "자연의 아버지",
+    "고목"
+   ],
+   "carry_items": [
+    "수호자의 맹세",
+    "가고일 돌갑옷",
+    "크라운가드"
+   ],
+   "games": 63,
+   "top4": 0.2698,
+   "pick": 0.0028,
+   "avg_place": 5.29
+  },
+  {
+   "carry": "DA_18_Soraka",
+   "carry_name": "소라카",
+   "traits": [
+    "DA_FloraFatalis18",
+    "DA_18_Battlemage"
+   ],
+   "trait_names": [
+    "치명적인 꽃",
+    "거석"
+   ],
+   "carry_items": [
+    "쇼진의 창",
+    "대천사의 지팡이",
+    "마법공학 총검"
+   ],
+   "games": 63,
+   "top4": 0.3651,
+   "pick": 0.0028,
+   "avg_place": 5.22
+  },
+  {
+   "carry": "DA_18_KhaZix",
+   "carry_name": "카직스",
+   "traits": [
+    "DA_18_Rival",
+    "DA_18_Executioner"
+   ],
+   "trait_names": [
+    "경쟁자",
+    "처형자"
+   ],
+   "carry_items": [
+    "정의의 손길",
+    "라바돈의 죽음모자",
+    "밤의 끝자락"
+   ],
+   "games": 59,
+   "top4": 0.4915,
+   "pick": 0.0026,
+   "avg_place": 4.54
+  },
+  {
+   "carry": "DA_18_Azir",
+   "carry_name": "아지르",
+   "traits": [
+    "DA_18_Summoner",
+    "DA_18_Battlemage"
+   ],
+   "trait_names": [
+    "소환사",
+    "거석"
+   ],
+   "carry_items": [
+    "마법공학 총검",
+    "구인수의 격노검",
+    "대천사의 지팡이"
+   ],
+   "games": 58,
+   "top4": 0.4483,
+   "pick": 0.0026,
+   "avg_place": 4.53
+  },
+  {
+   "carry": "DA_Nidalee18_AP",
+   "carry_name": "니달리",
+   "traits": [
+    "DA_Juggernaut18",
+    "DA_18_Maokai_UniqueTrait"
+   ],
+   "trait_names": [
+    "전쟁기계",
+    "고목"
+   ],
+   "carry_items": [
+    "구인수의 격노검",
+    "대천사의 지팡이",
+    "마법공학 총검"
+   ],
+   "games": 56,
+   "top4": 0.4286,
+   "pick": 0.0025,
+   "avg_place": 4.8
+  },
+  {
+   "carry": "DA_18_Rengar",
+   "carry_name": "렝가",
+   "traits": [
+    "DA_18_Rival",
+    "DA_18_Caustic"
+   ],
+   "trait_names": [
+    "경쟁자",
+    "부식"
+   ],
+   "carry_items": [
+    "구인수의 격노검",
+    "스테락의 도전",
+    "밤의 끝자락"
+   ],
+   "games": 56,
+   "top4": 0.4821,
+   "pick": 0.0025,
+   "avg_place": 4.27
+  },
+  {
+   "carry": "DA_18_Malphite",
+   "carry_name": "말파이트",
+   "traits": [
+    "DA_18_Battlemage",
+    "DA_18_Caustic"
+   ],
+   "trait_names": [
+    "거석",
+    "부식"
+   ],
+   "carry_items": [
+    "가고일 돌갑옷",
+    "크라운가드",
+    "워모그의 갑옷"
+   ],
+   "games": 55,
+   "top4": 0.3455,
+   "pick": 0.0024,
+   "avg_place": 5.4
+  },
+  {
+   "carry": "DA_Sentinel18",
+   "carry_name": "파수꾼",
+   "traits": [
+    "DA_18_Invoker",
+    "DA_18_Blossom"
+   ],
+   "trait_names": [
+    "기원자",
+    "개화"
+   ],
+   "carry_items": [
+    "수호자의 맹세",
+    "가고일 돌갑옷",
+    "적응형 투구"
+   ],
+   "games": 55,
+   "top4": 0.2364,
+   "pick": 0.0024,
+   "avg_place": 5.93
+  },
+  {
+   "carry": "DA_Sentinel18",
+   "carry_name": "파수꾼",
+   "traits": [
+    "DA_Emerald18",
+    "DA_18_Invoker"
+   ],
+   "trait_names": [
+    "에메랄드 성위",
+    "기원자"
+   ],
+   "carry_items": [
+    "수호자의 맹세",
+    "가고일 돌갑옷",
+    "적응형 투구"
+   ],
+   "games": 54,
+   "top4": 0.463,
+   "pick": 0.0024,
+   "avg_place": 4.81
+  },
+  {
+   "carry": "DA_18_MasterYi_AD",
+   "carry_name": "마스터 이",
+   "traits": [
+    "DA_18_Caustic",
+    "DA_18_Adaptor"
+   ],
+   "trait_names": [
+    "부식",
+    "적응가"
+   ],
+   "carry_items": [
+    "구인수의 격노검",
+    "수은",
+    "밤의 끝자락"
+   ],
+   "games": 54,
+   "top4": 0.3889,
+   "pick": 0.0024,
+   "avg_place": 5.2
+  }
+ ]
+}
