@@ -1,0 +1,34 @@
+name: 롤체 데이터 수집
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # 매일 한국 시간 새벽 3시
+  workflow_dispatch:        # Actions 탭에서 직접 실행
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 경기 수집과 통계 계산
+        env:
+          RIOT_API_KEY: ${{ secrets.RIOT_API_KEY }}
+        run: python collect.py
+      - name: 결과 저장
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "데이터 갱신 $(date -u +%Y-%m-%d)"
+          git push
